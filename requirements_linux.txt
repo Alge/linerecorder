@@ -1,5 +1,1 @@
-easygui
-keyboard
 argparse
-curses
-

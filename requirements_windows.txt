@@ -1,4 +1,2 @@
-easygui
-keyboard
 argparse
 windows-curses
