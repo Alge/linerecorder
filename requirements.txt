@@ -1,0 +1,5 @@
+easygui
+keyboard
+argparse
+curses
+windows-curses
